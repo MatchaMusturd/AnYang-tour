@@ -1,0 +1,402 @@
+---
+format: 
+    html: 
+        themo: cosmo
+        mermaid:
+            theme: neutral
+    pdf:
+        toc: true
+        toc-title: Contents
+        CJKmainfont: DengXian
+    gfm:
+        mermaid-format: svg
+---
+
+# 安阳游记
+## 安阳红旗渠机场
+![机场](photos/%E5%AE%89%E9%98%B3%E7%BA%A2%E6%97%97%E6%B8%A0%E6%9C%BA%E5%9C%BA.png "机场")
+
+## 安阳市文体中心
+![](photos/%E5%AE%89%E9%98%B3%E5%B8%82%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83.png )
+
+![](photos/%E5%AE%89%E9%98%B3%E5%B8%82%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%832.png)
+
+![](photos/%E5%AE%89%E9%98%B3%E5%B8%82%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%833.png)
+
+## 安阳市体育馆
+![](photos/%E5%AE%89%E9%98%B3%E5%B8%82%E4%BD%93%E8%82%B2%E9%A6%86.png)
+
+## 安阳市CBD公园
+![](photos/CBD%E5%85%AC%E5%9B%AD%E9%97%A8%E5%8F%A3%E9%A1%B5%E5%9D%9B2.png "门口叶坛2"){width="50%"}
+
+![](photos/CBD%E5%85%AC%E5%9B%AD%E9%97%A8%E5%8F%A3%E9%A1%B5%E5%9D%9B.png "门口叶坛")
+
+![](photos/CBD%E5%85%AC%E5%9B%AD%E6%B0%B4%E8%BE%B9.png "水边")
+
+![](photos/CBD%E5%85%AC%E5%9B%AD%E6%B0%B4%E8%BE%B92.png "水边2")
+
+![](photos/CBD%E5%85%AC%E5%9B%AD%E8%8D%89%E5%9D%AA2.png "草坪")
+
+## 安阳市南万金公园
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E5%B1%B1%E5%9D%A1.png "山坡")
+
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E6%B2%B3%E8%BE%B9.png "河边"){width="50%"}
+
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E6%B2%B3%E5%9D%9D.png "水坝")
+
+### 水边荷花
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A01.png "荷花池1")
+
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A02.png "荷花池2")
+
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A03.png "荷花池3")
+
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A04.png "荷花池4")
+
+### 黄花地
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E9%BB%84%E8%8A%B1%E5%9C%B01.png "黄花地1")
+
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E9%BB%84%E8%8A%B1%E5%9C%B02.png "黄花地2"){width="80%"}
+
+![](photos/%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E9%BB%84%E8%8A%B1%E5%9C%B03.png "黄花地3"){width="50%"}
+
+## 紫薇苑
+![](photos/%E7%B4%AB%E8%96%87%E8%8B%91%E5%B1%B1%E5%9D%A11.png "山坡")
+
+![](photos/%E7%B4%AB%E8%96%87%E8%8B%91%E5%B1%B1%E5%9D%A12.png "山坡2")
+
+![](photos/%E7%B4%AB%E8%96%87%E8%8B%91%E5%B1%B1%E5%9D%A14.png "山坡3")
+
+![](photos/%E7%B4%AB%E8%96%87%E8%8B%91%E5%B1%B1%E5%9D%A15.png "山坡4")
+
+## 人民公园
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E7%BB%BF%E5%9C%B0.png "绿地")
+
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A01.png "荷花池")
+
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E9%9B%95%E5%83%8F.png "雕像"){width="60%"}
+
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E6%B8%B8%E4%B9%90%E5%9B%AD.png "游乐园"){width="80%"}
+
+### 花坛
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E8%8A%B1.png "花坛1"){width="50%"}
+
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E8%8A%B12.png "花坛2")
+
+### 动物园
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E9%BB%91%E7%86%8A.png "黑熊"){width="60%"}
+
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E7%8C%95%E7%8C%B41.png "猕猴"){width="50%"}
+
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E7%8C%95%E7%8C%B42.png "猕猴"){width="50%"}
+
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E7%A7%83%E9%B9%AB.png "秃鹫"){width="50%"}
+
+![](photos/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E5%A4%A7%E8%80%B3%E7%BE%8A.png "大耳羊")
+
+## 易园
+![](photos/%E6%98%93%E5%9B%AD%E9%97%A8%E5%8F%A3.png "门口")
+
+### 绿地
+![](photos/%E6%98%93%E5%9B%AD%E5%B0%8F%E8%8D%892.png "小草"){width="30%"}
+
+![](photos/%E9%B2%9C%E8%8A%B1%E8%8D%89%E5%9C%B0.png "鲜花草地1"){width="50%"}
+
+![](photos/%E9%B2%9C%E8%8A%B1%E8%8D%89%E5%9C%B03.png "鲜花草地2")
+
+![](photos/%E5%A4%A7%E7%BB%BF%E5%9C%B0.png "绿地1"){width="70%"}
+
+![](photos/%E5%A4%A7%E7%BB%BF%E5%9C%B02.png "绿地2")
+
+![](photos/%E6%98%93%E5%9B%AD%E4%B8%AD%E5%A4%AE.png "易园中央1")
+
+![](photos/%E6%98%93%E5%9B%AD%E4%B8%AD%E5%A4%AE2.png "易园中央2")
+
+![](photos/%E6%B9%96%E4%B8%AD%E6%A0%91%E5%B2%9B.png "湖中树岛")
+
+### 荷花池
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1.png "荷花1"){width="30%"}
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B12.png "荷花2"){width="50%"}
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B14.png "荷花3"){width="50%"}
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B13.png "荷花4"){width="80%"}
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A011.png "荷花池1"){width="80%"}
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A04.png "荷花池2"){width="80%"}
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A09.png "荷花池3"){width="80%"}
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A02.png "荷花池4")
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A05.png "荷花池5")
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A010.png "荷花池6")
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A06.png "荷花池7")
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A08.png "荷花池8")
+
+![](photos/%E6%98%93%E5%9B%AD%E8%8D%B7%E8%8A%B1%E6%B1%A01.png "荷花池9")
+
+## 安阳市人民政府
+![](photos/%E5%AE%89%E9%98%B3%E5%B8%82%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C.png "安阳市人民政府")
+
+## 安阳市博物馆
+![](photos/%E5%AE%89%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A4%96%E8%A7%824.png "后身")
+
+![](photos/%E5%AE%89%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A4%96%E8%A7%822.png "正面侧角")
+
+![](photos/%E5%AE%89%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A4%96%E8%A7%82.png "正面")
+
+![](photos/%E5%AE%89%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E9%97%A8%E5%8F%A3.png "门口")
+
+### 展品
+- 四神十二生肖铜镜<br>
+![](photos/%E5%9B%9B%E7%A5%9E%E5%8D%81%E4%BA%8C%E7%94%9F%E8%82%96%E9%93%9C%E9%95%9C.png "四神十二生肖铜镜"){width="50%"}
+
+- 三个瓷枕<br>
+![](photos/%E4%B8%89%E4%B8%AA%E7%93%B7%E6%9E%95.png "三个瓷枕"){width="60%"}
+
+- 象牙笏板<br>
+![](photos/%E8%B1%A1%E7%89%99%E7%AC%8F%E6%9D%BF.png "象牙笏板"){width="40%"}
+
+- 兽面螭纹碧玉如意<br>
+![](photos/%E5%85%BD%E9%9D%A2%E8%9E%AD%E7%BA%B9%E7%A2%A7%E7%8E%89%E5%A6%82%E6%84%8F.png "兽面螭纹碧玉如意"){width="60%"}
+
+- 如意首翡翠牙签<br>
+![](photos/%E5%A6%82%E6%84%8F%E9%A6%96%E7%BF%A1%E7%BF%A0%E7%89%99%E7%AD%BE.png "如意首翡翠牙签"){width="40%"}
+
+- 牛骨<br>
+![](photos/%E7%89%9B%E9%AA%A8.png "牛骨"){width="50%"}
+
+#### 陶俑
+- 四个陶俑<br>
+![](photos/%E5%9B%9B%E4%B8%AA%E9%99%B6%E4%BF%91.png "四个陶俑"){width="60%"}
+
+- 众陶俑
+![](photos/%E4%BC%97%E9%99%B6%E5%83%8F.png "众陶俑")
+
+- 陶羊尊<br>
+![](photos/%E9%99%B6%E7%BE%8A%E5%B0%8A.png "陶羊尊"){width="50%"}
+
+- 陶鹿尊<br>
+![](photos/%E9%99%B6%E9%B9%BF%E5%B0%8A.png "陶鹿尊"){width="50%"}
+
+#### 青铜器
+- 青铜尊<br>
+![](photos/%E9%9D%92%E9%93%9C%E5%B0%8A.png "青铜尊"){width="50%"}
+
+- 兽面纹青铜尊<br>
+![](photos/%E5%85%BD%E9%9D%A2%E7%BA%B9%E9%9D%92%E9%93%9C%E5%B0%8A.png "兽面纹青铜尊"){width="50%"}
+
+- 青铜剑<br>
+![](photos/%E9%9D%92%E9%93%9C%E5%89%912.png "青铜剑"){width="60%"}
+
+## 殷墟
+![](photos/%E6%AE%B7%E5%A2%9F.png "殷墟1")
+
+![](photos/%E6%AE%B7%E5%A2%9F2.png "殷墟2")
+
+### 展品
+![](photos/%E9%9D%92%E9%93%9C%E6%88%88%E9%92%BA.png "青铜武器")
+
+![](photos/%E9%9D%92%E9%93%9C%E5%99%A8%E9%99%B6%E5%99%A8.png "青铜器陶器"){width="60%"}
+
+- 牛祭坑<br>
+![](photos/%E7%89%9B%E7%A5%AD%E5%9D%91.png "牛祭坑"){width="50%"}
+
+- 牛角祭祀坑<br>
+![](photos/%E7%89%9B%E8%A7%92%E7%A5%AD%E7%A5%80%E5%9D%91.png "牛角祭祀坑"){width="60%"}
+
+![](photos/%E8%BD%A6%E9%A9%AC%E9%A9%BE.png "车马驾"){width="70%"}
+
+## 文字博物馆
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%AE%A3%E6%96%87%E6%AE%BF%E9%97%A8%E5%A4%96.png "大门外")
+
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%AD%E5%8C%BA%F0%9F%90%A6.png "园区草地"){width="80%"}
+
+- 宣文馆
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%AE%A3%E6%96%87%E6%AE%BF.png "宣文馆")
+
+- 甲骨雕塑<br>
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%AD%E5%8C%BA%E7%94%B2%E9%AA%A8%E9%9B%95%E5%A1%91.png "甲骨雕塑"){width="40%"}
+
+- 牛骨雕塑<br>
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%AD%E5%8C%BA%E7%89%9B%E9%AA%A8%E9%9B%95%E5%A1%91.png "牛骨雕塑"){width="40%"}
+
+- 铜兕觥盖<br>
+![](photos/%E9%93%9C%E5%85%95%E8%A7%A5%E7%9B%96.png "铜兕觥盖"){width="60%"}
+
+### 墙面
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A2%99%E9%9D%A22.png "文字图案墙面"){width="80%"}
+
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A2%99%E9%9D%A2.png "安阳"){width="50%"}
+
+### 荷花池
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%AD%E5%8C%BA%E8%8D%B7%E8%8A%B1%E6%B1%A0.png "荷花池1"){width="60%"}
+
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%AD%E5%8C%BA%E8%8D%B7%E8%8A%B1%E6%B1%A02.png "荷花池2"){width="80%"}
+
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%AD%E5%8C%BA%E8%8D%B7%E8%8A%B1%E6%B1%A04.png "荷花池3"){width="80%"}
+
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%AD%E5%8C%BA%E8%8D%B7%E8%8A%B1%E6%B1%A05.png "荷花池4")
+
+![](photos/%E6%96%87%E5%AD%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%AD%E5%8C%BA%E8%8D%B7%E8%8A%B1%E6%B1%A06.png "荷花池5")
+
+## 城隍庙
+![](photos/%E5%9F%8E%E9%9A%8D%E5%BA%99%E7%89%8C%E5%AD%90.png "牌子"){width="40%"}
+
+![](photos/%E5%9F%8E%E9%9A%8D%E5%BA%99.png "城隍庙")
+
+![](photos/%E5%9F%8E%E9%9A%8D%E5%BA%99%E5%B0%8F%E5%B7%B7.png "小巷"){width="60%"}
+
+![](photos/%E5%89%8D%E7%A8%8B%E4%BC%BC%E9%94%A6.png "前程似锦"){width="40%"}
+
+## 钟楼
+![](photos/%E9%92%9F%E6%A5%BC.png "钟楼")
+
+## 天宁寺
+![](photos/%E5%A4%A9%E5%AE%81%E5%AF%BA%E5%9B%AD%E4%B8%AD%E5%B1%B1%E7%9F%B3.png "山石"){width="80%"}
+
+### 大雄宝殿
+![](photos/%E5%A4%A7%E9%9B%84%E5%AE%9D%E6%AE%BF.png "大雄宝殿"){width="80%"}
+
+![](photos/%E4%BD%9B%E5%85%89%E6%99%AE%E7%85%A7.png "佛光普照"){width="70%"}
+
+![](photos/%E5%93%BC%E5%93%88%E4%BA%8C%E5%B0%86.png "哼哈二将1"){width="50%"}
+
+![](photos/%E5%93%BC%E5%93%88%E4%BA%8C%E5%B0%862.png "哼哈二将2"){width="50%"}
+
+![](photos/%E5%A4%A7%E4%BD%9B.png "大佛"){width="30%"}
+
+### 文峰塔
+![](photos/%E6%96%87%E5%B3%B0%E5%A1%945.png "文峰塔")
+
+## 仓巷街
+![](photos/%E4%BB%93%E5%B7%B7%E8%A1%97%E4%BA%AD%E5%AD%90.png "亭子")
+
+![](photos/%E4%BB%93%E5%B7%B7%E8%A1%97%E8%80%81%E6%88%BF%E5%AD%90.png "老房子"){width="60%"}
+
+![](photos/%E4%B8%89%E5%8F%AA%E7%BB%93%E7%95%8C%E5%85%BD3.png "结界兽"){width="40%"}
+
+## 安阳市血液中心
+![](photos/%E5%AE%89%E9%98%B3%E5%B8%82%E7%8C%AE%E8%A1%80%E4%B8%AD%E5%BF%83%E9%97%A8%E5%8F%A3.png "安阳市献血中心门口"){width="70%"}
+
+![](photos/%E5%AE%89%E9%98%B3%E5%B8%82%E7%8C%AE%E8%A1%80%E4%B8%AD%E5%BF%83.png "安阳市献血中心")
+
+## 安阳一中
+![](photos/%E5%AE%89%E9%98%B3%E4%B8%80%E4%B8%AD.png "安阳一中")
+
+## 魁星阁
+![](photos/%E9%AD%81%E6%98%9F%E9%98%814.png "魁星阁1")
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81%E7%AE%AD%E5%AD%94.png "箭孔"){width="50%"}
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%813.png "魁星阁2")
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81%E5%A4%A7%E7%A5%9E.png "大神"){width="50%"}
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%812.png "魁星阁3")
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81.png "魁星阁4"){width="60%"}'
+
+![](photos/%E7%8B%AC%E5%8D%A0%E9%B3%8C%E5%A4%B4.png "独占鳌头")
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81%E5%A2%99%E8%8D%89.png "墙草1")
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81%E5%A2%99%E8%8D%892.png "墙草2"){width="80%"}
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81%E5%A2%99%E8%8D%893.png "墙草3"){width="50%"}
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81%E8%8D%89%E4%B8%9B.png "草丛"){width="50%"}
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81%E8%8D%89%E4%B8%9B2.png "草丛2"){width="50%"}
+
+![](photos/%E9%AD%81%E6%98%9F%E9%98%81%E6%B2%B3%E5%AF%B9%E5%B2%B8.png "河对岸")
+
+## 安阳市图书馆
+![](photos/%E5%AE%89%E9%98%B3%E5%B8%82%E5%9B%BE%E4%B9%A6%E9%A6%86.png "图书馆")
+
+## 岳飞庙
+![](photos/%E5%85%89%E4%B8%B4%E6%97%A5%E6%9C%88.png "光临日月")
+
+![](photos/%E5%85%AD%E5%9D%97%E7%89%8C%E5%8C%BE1.png "六块牌匾"){width="60%"}
+
+![](photos/6%E5%9D%97%E7%89%8C%E5%8C%BE.png "六块牌匾2"){width="60%"}
+
+## 扁粉菜
+![](photos/%E6%89%81%E7%B2%89%E8%8F%9C.png "扁粉菜"){width="30%"}
+
+## 大胖
+![](photos/%E5%A4%A7%E8%83%96.png "大胖")
+
+![](photos/%E7%88%B1%E5%9C%A8%E8%83%96%E4%B8%9C%E6%9D%A51.png "爱在胖东来"){width="40%"}
+
+![](photos/%E5%AE%A0%E7%89%A9%E5%AF%84%E5%AD%98%E5%A4%84.png "宠物寄存处"){width="70%"}
+
+![](photos/%E8%83%96%E4%B8%9C%E6%9D%A5%E8%87%AA%E6%9C%89%E5%93%81%E7%89%8C.png "自有品牌"){width="60%"}
+
+![](photos/%E6%96%B0%E4%B9%A1%E5%B8%82%E8%83%96%E4%B8%9C%E6%9D%A5%E8%B6%85%E5%B8%82%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A.png "检测报告")
+
+![](photos/%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95.png "苏格拉底"){width="60%"}
+
+![](photos/AeroBull.png "牛头犬音响"){width="40%"}
+
+![](photos/%E5%81%9C%E8%BD%A6%E5%9C%BA%E5%B7%A5%E5%85%B7.png "工具"){width="50%"}
+
+![](photos/%E5%81%9C%E8%BD%A6%E5%9C%BA%E6%94%B6%E8%B4%B9%E6%A0%87%E5%87%86.png "收费标准"){width="30%"}
+
+![](photos/xiaomiSu7.png "xiaomisu7"){width="80%"}
+
+### 泡泡玛特
+![](photos/%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9.png "泡泡玛特1")
+
+![](photos/%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B92.png "泡泡玛特2")
+
+![](photos/%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B93.png "泡泡玛特3")
+
+![](photos/%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B94.png "泡泡玛特4")
+
+![](photos/%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B95.png "泡泡玛特5")
+
+## 红旗渠
+- 跃峰渠<br>
+![](photos/%E8%B7%83%E5%B3%B0%E6%B8%A0.png "跃峰渠")
+
+- 张家岭<br>
+![](photos/%E5%BC%A0%E5%AE%B6%E5%B2%AD.png "张家岭"){width="80%"}
+
+![](photos/%E6%B4%9E%E7%A9%B4%E5%87%BA%E5%8F%A3.png "洞穴出口"){width="40%"}
+
+![](photos/%E5%8A%88%E5%BC%80%E5%A4%AA%E8%A1%8C%E5%B1%B1.png "劈开太行山"){width="80%"}
+
+![](photos/%E5%B2%A9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%B0%8F%E6%A0%91.png "小树"){width="50%"}
+
+![](photos/%E5%A4%A7%E7%81%B5%E8%8A%9D.png "灵芝"){width="40%"}
+
+- 龙王庙<br>
+![](photos/%E9%BE%99%E7%8E%8B%E5%BA%99.png "龙王庙"){width="30%"}
+
+- 修行洞<br>
+![](photos/%E4%BF%AE%E8%A1%8C%E6%B4%9E.png "修行洞"){width="50%"}
+
+- 玉皇阁<br>
+![](photos/%E7%8E%89%E7%9A%87%E9%98%81.png "玉皇阁"){width="80%"}
+
+- 山坡顶风光<br>
+![](photos/%E7%BA%A2%E6%97%97%E6%B8%A0%E9%A3%8E%E6%99%AF%E5%8C%BA%E5%B1%B1%E5%9D%A1%E9%A1%B6%E5%B9%BF%E8%A7%92.png "山顶风光")
+
+![](photos/%E7%BA%A2%E6%97%97%E6%B8%A0.png "红旗渠"){width="70%"}
+
+![](photos/%E7%BA%A2%E6%97%97%E6%B8%A0%E6%B0%B4%E4%B8%AD%E5%80%92%E5%BD%B1.png "水中倒影"){width="50%"}
+
+![](photos/%E7%BA%A2%E6%97%97%E6%B8%A0%E9%9B%95%E5%83%8F.png "雕像"){width="50%"}
+
+![](%E8%87%AA%E5%8A%9B%E6%9B%B4%E7%94%9F%E8%89%B0%E8%8B%A6%E5%88%9B%E4%B8%9A.png "总书记"){width="30%"}
+
+![](photos/%E7%BA%A2%E6%97%97%E6%B8%A0%E5%B8%BD%E5%AD%90.png "帽子"){width="60%"}
+
+![](photos/%E7%BA%A2%E6%97%97%E6%B8%A0%E7%BA%AA%E5%BF%B5%E7%A2%91.png "纪念碑"){width="60%"}
