@@ -2,7 +2,7 @@
 
 ## 安阳红旗渠机场
 
-![机场](%E5%AE%89%E9%98%B3%E7%BA%A2%E6%97%97%E6%B8%A0%E6%9C%BA%E5%9C%BA.png "机场")
+![](%E5%AE%89%E9%98%B3%E7%BA%A2%E6%97%97%E6%B8%A0%E6%9C%BA%E5%9C%BA.png "机场")
 
 ## 安阳市文体中心
 
@@ -32,9 +32,9 @@
 
 ![](%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E5%B1%B1%E5%9D%A1.png "山坡")
 
-`<img
+<img
 src="%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E6%B2%B3%E8%BE%B9.png"
-title="河边" style="width:50.0%" />`
+title="河边" style="width:50.0%" />
 
 ![](%E5%8D%97%E4%B8%87%E9%87%91%E5%85%AC%E5%9B%AD%E6%B2%B3%E5%9D%9D.png "水坝")
 
